@@ -1,0 +1,8 @@
+{
+  "name": "LIANDE Premium Library",
+  "description": "A high-end, immersive digital library resource with cinematic aesthetics, Konami code hidden features, and AI image generation capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
